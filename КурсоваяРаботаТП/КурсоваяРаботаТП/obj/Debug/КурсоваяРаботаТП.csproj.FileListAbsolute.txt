@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\bin\Debug\dictionary_of_catch_phrases_DB.mdf
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\bin\Debug\dictionary_of_catch_phrases_DB_log.ldf
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\bin\Debug\КурсоваяРаботаТП.exe.config
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\bin\Debug\КурсоваяРаботаТП.exe
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\bin\Debug\КурсоваяРаботаТП.pdb
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\obj\Debug\КурсоваяРаботаТП.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\obj\Debug\КурсоваяРаботаТП.Form_Dictionary.resources
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\obj\Debug\КурсоваяРаботаТП.Properties.Resources.resources
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\obj\Debug\КурсоваяРаботаТП.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\obj\Debug\КурсоваяРаботаТП.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\obj\Debug\КурсоваяРаботаТП.exe
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\obj\Debug\КурсоваяРаботаТП.pdb
+C:\Users\victo\source\repos\КурсоваяРаботаТП\КурсоваяРаботаТП\obj\Debug\КурсоваяРаботаТП.Form_Add.resources
