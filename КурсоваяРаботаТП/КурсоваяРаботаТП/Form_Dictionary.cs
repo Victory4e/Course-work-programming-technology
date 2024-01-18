@@ -108,7 +108,7 @@ namespace КурсоваяРаботаТП
 
                 dataSet.Tables["Крылатые_Фразы"].Rows[rowIndex].Delete();
 
-                sqlDataAdapter.Update(dataSet, "Крылатые_Фразы");
+                ReloadData();
             }
         }
 
