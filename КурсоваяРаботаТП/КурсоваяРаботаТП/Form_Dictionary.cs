@@ -103,12 +103,15 @@ namespace КурсоваяРаботаТП
         {
             if (MessageBox.Show("Удалить эту строку?", "Удаление", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
-                int rowIndex = dataGridView1.CurrentRow.Index;
-                dataGridView1.Rows.Remove(dataGridView1.Rows[rowIndex]);
-
-                dataSet.Tables["Крылатые_Фразы"].Rows[rowIndex].Delete();
-
-                ReloadData();
+               int Rowindex = dataGridView1.CurrentCell.RowIndex;
+              
+               var id = Convert.ToInt32(dataGridView1.Rows[Rowindex].Cells[0].Value);
+               var deleteQuery = $"delete from Крылатые_Фразы where id = {id}";
+        
+               var command = new SqlCommand(deleteQuery, sqlConnection);
+               command.ExecuteNonQuery();
+        
+               ReloadData();
             }
         }
 
